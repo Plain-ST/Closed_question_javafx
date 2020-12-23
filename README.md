@@ -1,2 +1,3 @@
 # Closed_question_javafx
-javafxでyes/noチャートを作成
+javafxを使用したGUIプログラム  
+二分木型の質問リストからyes/noで答えて対応した表示をするアプリケーション
